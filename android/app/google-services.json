@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249341494504",
+    "project_id": "ibrahim-gen-track",
+    "storage_bucket": "ibrahim-gen-track.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249341494504:android:3d22af075eca648a10f55d",
+        "android_client_info": {
+          "package_name": "com.example.ibrahim_gen_track_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU-pcZqqwfn9PSyKH6tUVShavzrT0bBBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
